@@ -1,3 +1,23 @@
+# faceDB ignore
+face-index.json
+face-model.h5
+face-model.json
+haarcascade_frontalface_default.xml
+
+# face data ignore
+data/train/
+data/faces/
+data/validation/
+data/test/
+data/face-data.7z
+
+# other
+tool/
+test_ipy/
+learn_note/
+.vscode/
+
+#============== ignore from github default (by selecting python)=======# 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
